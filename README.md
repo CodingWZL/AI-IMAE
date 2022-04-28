@@ -6,4 +6,4 @@ Here, we provide the 9 well-trained models (Models) for ionic migration energy p
 You can directly load the model for predicting Ea.
 
 If required, you can provide us with any number of crystal structure files (.cif files), then we can predict the ionic activation energy and provide feedback in time.
-Contact: Zhilong Wang (SJTUAimslab@outlook.com)
+Contact us: (SJTUAimslab@outlook.com)
