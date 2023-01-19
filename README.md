@@ -7,3 +7,5 @@ You can directly load the model for predicting Ea.
 
 If required, you can provide us with any number of crystal structure files (.cif files), then we can predict the ionic activation energy and provide feedback in time.
 Contact us: (SJTUAimslab@outlook.com)
+
+Citing: Zhilong Wang, Yanqiang Han, Junfei Cai, An Chen, Jinjin Li*, An end-to-end artificial intelligence platform enables real-time assessment of superionc conductors. SmartMat (2023). 10.1002/smm2.1183, In production.
